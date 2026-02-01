@@ -2,14 +2,16 @@ theme: jekyll-theme-minimal
 title: Homepage
 description:  Stay Tuned for project updates!
 layout: default
+title: SloanStJohn
+author: Sloan St. John
+github:
+  owner_name: Sloan St. John
 ---
 ## Overview of Project Objectives
-
 For this project, I want to explore Business Intelligence (BI), which is typically understood as a process that includes some or all of the following steps: aggregating and organizing raw data, storing it in a database or data warehouse, and running structured queries to generate insights related to business operations, efficiency, and productivity. These insights are then translated into charts and visualizations that can be used across the organization to inform decisions and update business processes and procedures.
-
 For me, BI feels relatively straightforward at the programming level but challenging at the abstract level. Asking the right questions and presenting findings in a clear and meaningful way requires intuition, creativity, planning, and strong communication. Through this project, I hope to develop not only a better understanding of the technical mechanics of BI, but also some intuition and heuristics that will be useful as I pursue this field and potentially informative to other students learning BI.
+***
 
----
 ## 11/28/2026 – Week 2
 Last week was the first week of the class, so I focused on getting oriented to the structure of the course and clarifying what project I wanted to pursue. I also briefly explored a few BI tools, including Metabase and Google BigQuery.
 
