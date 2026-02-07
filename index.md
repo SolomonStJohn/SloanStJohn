@@ -17,3 +17,22 @@ One major impediment is BI software, which is often expensive and, for me, diffi
 There is also the possibility that my boss may not be comfortable giving me access to the bar’s data. If that happens, I will need to be prepared to pivot to a different dataset or use an invented or publicly available one.
 
 Because last week was the first week of the course, I am not sure there is much I could have done differently. Motivation was somewhat difficult, largely because I was still searching for a topic that genuinely engaged me. I knew from the beginning that I wanted to focus on BI, but I need to remember that practical, real-world examples are much more motivating for me than purely abstract concepts. Going forward, I need to strike a better balance between conceptual thinking and hands-on, applied work.
+
+## 02/4/2026 - Week 3
+Last week, I focused on drafting simple, specific Business Intelligence questions for the bar. 
+Examples:
+
+    What are the top 3 selling items based on different periods of the day (1–3pm, 3–6pm, etc.)?
+    Which menu items have high sales volume but low profit margins?
+    How does sales differ on Bears vs. Packers game days?
+    During what times of day are wait times for food likely worst?
+    During what times of day are wait times for drinks likely worst?
+    Are any menu items commonly purchased together?
+    Who spends more: evening customers or late-night customers?
+    What menu items are rising stars?
+    Which bar of the three inside the building is  consistently the busiest?
+
+Last week, I also had a chat with my boss about getting access to the Toast POS data. She was positive about the idea but requested a basic, layman-readable explanation of what BI is.
+This week I plan to write the explanation she requested and select a couple of the BI questions that I am most proud of as examples for her to consider. I also plan to research Toast a bit more. I am fairly sure you can run SQL against it, but I need a more fine-grain understanding of Toast.
+I am concerned that understanding Toast may require already having access to it. It is one of the premier restaurant management systems, so getting to know it better may be cost-prohibitive.
+Additionally, I reflected and realized that was not prepared to have the conversation I had with my boss. So, I need to get more grounded with my questions and start thinking about what an insight generated from a query would look like, and what practical steps one would take in the hypothetical instance where an insight is helpful and a business decision can be made from it.
