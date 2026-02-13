@@ -1,7 +1,6 @@
----
 remote_theme: "jekyller/lagrange"
 title: Sloan's Homepage
 description: In this project I am building a Business Intelligence report for the bar I work for part time.
 author: Sloan St. John
----
+paginate: false
 
