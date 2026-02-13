@@ -1,5 +1,7 @@
 ---
+layout: default
 title: Sloan's Homepage
+permalink: /
 ---
 
 ## Overview of Project Objectives
